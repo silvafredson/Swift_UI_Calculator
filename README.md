@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/92945868/156650172-7802772c-1475-4ccf-9974-3ea7854afdb1.png" width="400px"/>
+  <img src="https://user-images.githubusercontent.com/92945868/156650172-7802772c-1475-4ccf-9974-3ea7854afdb1.png" width="300px"/>
 </div>
 
 # Swift UI Calculator 
@@ -8,7 +8,7 @@
 
 <br>
 
-<p>Esté projeto é o primeiro de uma longa jornada no meu desenvolvimento para iOS e faz parte das minhas práticas semanais nos estudos de programação.</p>
+<p>Este projeto é o primeiro de uma longa jornada em desenvolvimento para iOS e faz parte das minhas práticas semanais nos estudos de programação.</p>
 <p>Aos poucos este App será aprimorado e documentado aqui.</p>
 
 <br>
