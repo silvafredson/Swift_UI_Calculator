@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/92945868/156650172-7802772c-1475-4ccf-9974-3ea7854afdb1.png" width="300px"/>
 </div>
 
-# Swift UI Calculator 
+# SwiftUI Calculator 
 
 <h3>Status: Developing... ⚠️</h3>
 
